@@ -1,0 +1,1 @@
+-s -d -k ..\..\kernels\vmlinux-6.1.0-9-m68k -r ..\..\cdrom\initrd.gz root=/dev/ram video=atafb:vga16 console=tty load_ramdisk=1 fb=false

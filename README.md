@@ -159,6 +159,7 @@ Supported architectures:
  armv5tel, armv5tel-musl, armv6l, armv6l-musl, armv7l, armv7l-musl
  aarch64, aarch64-musl,
  mipsel, mipsel-musl,
+ m68k, m68k-musl,
  ppc, ppc-musl, ppc64le, ppc64le-musl, ppc64, ppc64-musl
 
 OPTIONS

@@ -1,0 +1,6 @@
+# ext.  xlate  creator  type    comment
+.b      Raw    'UNIX'   'tbxi'  "Bootloader"
+.hqx    Ascii  'BnHx'   'TEXT'  "BinHex file"
+.sit    Raw    'SIT!'   'SITD'  "StuffIT Expander"
+.xbps   Raw    'Void'   'XBPS'  "XBPS package"
+*       Ascii  '????'   '????'  "Text file"

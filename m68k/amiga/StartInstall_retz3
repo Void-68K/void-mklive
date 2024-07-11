@@ -1,0 +1,1 @@
+amiboot -d -k //kernels/vmlinux-6.1.0-9-m68k -r //cdrom/initrd.gz root=/dev/ram fb=false video=retz3:640x480
